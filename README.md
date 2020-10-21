@@ -1,4 +1,2 @@
-test
+This repo is for Algorithm practice
 ====
-
-test repo
